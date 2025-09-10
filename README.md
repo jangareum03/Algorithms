@@ -9,6 +9,7 @@
 - `codewars/`  : [코드워즈 사이트](https://www.codewars.com/) 문제 풀이
 - `leetcode/` : [리트코드 사이트](https://leetcode.com/explore/) 문제 풀이
 - `programmers/` : [프로그래머스 사이트](https://school.programmers.co.kr/learn/challenges?order=recent) 문제풀이
+- `chatGPT/` : 챗GPT가 만든 문제 풀이
 
 ## 예시
 - 백준 2557번 문제 Hello World
