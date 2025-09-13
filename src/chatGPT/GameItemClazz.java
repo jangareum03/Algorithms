@@ -18,6 +18,11 @@ public class GameItemClazz {
 			return;
 		}
 
+		if( level < 0 ) {
+			System.out.println("레벨은 1 이상이여야 합니다 : " + level);
+			return;
+		}
+
 		Item item = factory.createItem();
 		item.use(level);
 	}
