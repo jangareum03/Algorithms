@@ -1,4 +1,4 @@
-package chatGPT.DesignPattern;
+package chatGPT.DesignPattern.abstractFactory;
 
 /**
  * 추상팩토리 문제 - 게임 아이템 제작 시스템

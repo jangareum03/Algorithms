@@ -1,4 +1,4 @@
-package chatGPT.DesignPattern;
+package chatGPT;
 
 
 /**

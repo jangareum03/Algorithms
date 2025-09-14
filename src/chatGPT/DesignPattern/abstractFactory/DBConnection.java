@@ -1,4 +1,4 @@
-package chatGPT.DesignPattern;
+package chatGPT.DesignPattern.abstractFactory;
 
 /**
  * 추상 팩토리 문제 - 데이터베이스 연결

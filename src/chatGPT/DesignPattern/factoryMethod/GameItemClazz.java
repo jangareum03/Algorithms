@@ -1,4 +1,4 @@
-package chatGPT.DesignPattern;
+package chatGPT.DesignPattern.factoryMethod;
 
 /**
  *		팩토리메서드 패턴 - 게임 아이템 생성
@@ -117,7 +117,7 @@ class Wand extends Weapons {
 }
 
 
-abstract class Armor implements Item {
+abstract class Armors implements Item {
 	private final String type = "armor";
 	private static final int MIN_PRICE = 10;
 	private static final int MIN_EFFECT = 5;
@@ -145,7 +145,7 @@ abstract class Armor implements Item {
 	protected abstract int extendPrice();
 }
 
-class Tower extends Armor {
+class Tower extends Armors {
 
 	@Override
 	protected int extendEffect(int level) {
@@ -158,7 +158,7 @@ class Tower extends Armor {
 	}
 }
 
-class Buckler extends Armor {
+class Buckler extends Armors {
 	@Override
 	protected int extendEffect(int level) {
 		return level * 5;
@@ -171,8 +171,8 @@ class Buckler extends Armor {
 }
 
 
-abstract class Potion implements Item {
-	private final String type = "Potion";
+abstract class Potions implements Item {
+	private final String type = "Potions";
 	private static final int MIN_PRICE = 5;
 	private static final int MIN_EFFECT = 3;
 
@@ -199,7 +199,7 @@ abstract class Potion implements Item {
 	protected abstract int extendPrice();
 }
 
-class HpPotion extends Potion {
+class HpPotions extends Potions {
 	@Override
 	protected int extendEffect(int level) {
 		return level * 5;
@@ -211,7 +211,7 @@ class HpPotion extends Potion {
 	}
 }
 
-class MpPotion extends Potion {
+class MpPotions extends Potions {
 	@Override
 	protected int extendEffect(int level) {
 		return level * 3;
@@ -260,8 +260,8 @@ class PotionFactory extends ItemFactory {
 	@Override
 	protected Item selectedItem(String name) {
 		return switch (name.toLowerCase()) {
-			case "hp" -> new HpPotion();
-			case "mp" -> new MpPotion();
+			case "hp" -> new HpPotions();
+			case "mp" -> new MpPotions();
 			default -> null;
 		};
 	}

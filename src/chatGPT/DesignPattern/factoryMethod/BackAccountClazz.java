@@ -1,4 +1,4 @@
-package chatGPT.DesignPattern;
+package chatGPT.DesignPattern.factoryMethod;
 
 /**
  * 팩토리메서드 패턴 - 은행 계좌 생성

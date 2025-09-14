@@ -1,4 +1,4 @@
-package chatGPT.DesignPattern;
+package chatGPT.DesignPattern.singleton;
 
 /**
  * 싱글톤 패턴 문제 - 멀티 스레드 환경

@@ -1,4 +1,4 @@
-package chatGPT.DesignPattern;
+package chatGPT.DesignPattern.abstractFactory;
 
 /**
  * 추상 팩토리 문제 - 클라우드 서비스 리소스 관리
