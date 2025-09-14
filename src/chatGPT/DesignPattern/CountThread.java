@@ -1,4 +1,4 @@
-package chatGPT;
+package chatGPT.DesignPattern;
 
 /**
 	멀티 스레드 문제 - 각 스레드 1000번까지 카운트

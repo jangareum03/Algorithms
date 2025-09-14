@@ -1,4 +1,4 @@
-package chatGPT;
+package chatGPT.DesignPattern;
 
 import java.util.HashMap;
 import java.util.Map;

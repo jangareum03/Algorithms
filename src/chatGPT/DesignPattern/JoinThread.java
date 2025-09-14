@@ -1,4 +1,4 @@
-package chatGPT;
+package chatGPT.DesignPattern;
 
 /**
 	멀티 스레드 문제 - 모든 스레드 종료 확인

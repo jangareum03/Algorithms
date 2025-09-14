@@ -1,4 +1,4 @@
-package chatGPT;
+package chatGPT.DesignPattern;
 
 /**
  * 팩토리 메서드 패턴 - 자동차 등록 시스템

@@ -1,4 +1,4 @@
-package chatGPT;
+package chatGPT.DesignPattern;
 
 /**
  *		팩토리메서드 패턴 - 게임 아이템 생성

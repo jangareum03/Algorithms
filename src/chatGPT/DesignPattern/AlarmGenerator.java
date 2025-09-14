@@ -1,4 +1,4 @@
-package chatGPT;
+package chatGPT.DesignPattern;
 
 /**
  * 팩토리 메서드 패턴 - 알람 생성기

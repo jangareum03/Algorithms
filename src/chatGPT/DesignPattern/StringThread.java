@@ -1,4 +1,4 @@
-package chatGPT;
+package chatGPT.DesignPattern;
 
 /**
  	멀티 스레드 문제 - 문자열 각각 출력
