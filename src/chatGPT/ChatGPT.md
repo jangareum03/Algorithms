@@ -7,7 +7,8 @@
 | 디자인패턴 |   입금 관리   |     DepositTracker     | [링크](https://areum.tistory.com/44) |
 | 디자인패턴 |   알람 생성   |     AlarmGenerator     | [링크](https://areum.tistory.com/45) |
 | 디자인패턴 |  자동차 등록   |      RegisterCar       | [링크](https://areum.tistory.com/46) |
-| 디자인패턴 |   은행계좌    |    BackAccountClazz    | [링크](https://areum.tistory.com/47
+| 디자인패턴 |   은행계좌    |    BackAccountClazz    | [링크](https://areum.tistory.com/47  |
+| 디자인패턴 | 게임 아이템 생성 |     GameItemClazz      | [링크](https://areum.tistory.com/48) |
 |  스레드  |  문자열 출력   |      StringThread      | [링크](https://areum.tistory.com/37) |
 |  스레드  |   스레드종료   |       JoinThread       | [링크](https://areum.tistory.com/39) |
  |  스레드  |  숫자 카운트   |      CountThread       | [링크](https://areum.tistory.com/41) |
