@@ -25,6 +25,8 @@
 |  브리지   |  게임 무기 공격   |    MobileGame     | [링크](https://areum.tistory.com/61)  |
 |  브리지   |   음악 스트리밍   |    MusicPlayer    | [링크])(https://areum.tistory.com/62) |
 |  브리지   |    상품 알림    |   ProductNotice   | [링크](https://areum.tistory.com/63)  |
+|  컴포지트  |   회사 조직도    |   Organization    | [링크](https://areum.tistory.com/64)  |
+|  컴포지트  |   권한 시스템    |  CompanySecurity  | [링크](https://areum.tistory.com/65)  |
 
 
 ## 스레드

@@ -1,4 +1,4 @@
-package chatGPT.DesignPattern.Composite;
+package chatGPT.DesignPattern.composite;
 
 
 import java.util.*;
