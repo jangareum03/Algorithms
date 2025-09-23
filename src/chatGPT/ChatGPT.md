@@ -27,6 +27,8 @@
 |  브리지   |    상품 알림    |   ProductNotice   | [링크](https://areum.tistory.com/63)  |
 |  컴포지트  |   회사 조직도    |   Organization    | [링크](https://areum.tistory.com/64)  |
 |  컴포지트  |   권한 시스템    |  CompanySecurity  | [링크](https://areum.tistory.com/65)  |
+| 플라이웨이트 |  지도 마커 아이콘  |      MapIcon      | [링크](https://areum.tistory.com/66)  |
+ | 플라이웨이트 |   상품 썸네일    | ProductThumbnail  | [링크](https://areum.tistory.com/67)  |
 
 
 ## 스레드
