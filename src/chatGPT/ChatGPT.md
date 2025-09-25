@@ -29,6 +29,9 @@
 |  컴포지트  |   권한 시스템    |  CompanySecurity  | [링크](https://areum.tistory.com/65)  |
 | 플라이웨이트 |  지도 마커 아이콘  |      MapIcon      | [링크](https://areum.tistory.com/66)  |
  | 플라이웨이트 |   상품 썸네일    | ProductThumbnail  | [링크](https://areum.tistory.com/67)  |
+|  옵저버   |  주식 시세 알림   |    StockSystem    | [링크](https://areum.tistory.com/68)  |
+|  옵저버   | 스마트홈 온도 센서  |     SmartHome     | [링크](https://areum.tistory.com/69)  |
+|  옵저버   |    뉴스 구독    |       News        | [링크](https://areum.tistory.com/70)  |
 
 
 ## 스레드
