@@ -32,6 +32,7 @@
 |  옵저버   |  주식 시세 알림   |    StockSystem    | [링크](https://areum.tistory.com/68)  |
 |  옵저버   | 스마트홈 온도 센서  |     SmartHome     | [링크](https://areum.tistory.com/69)  |
 |  옵저버   |    뉴스 구독    |       News        | [링크](https://areum.tistory.com/70)  |
+|   전략   |   배송비 계산    | DeliveryFeeSystem | [링크](https://areum.tistory.com/71)  |
 
 
 ## 스레드
