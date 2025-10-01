@@ -34,6 +34,7 @@
 |  옵저버   |    뉴스 구독    |       News        | [링크](https://areum.tistory.com/70)  |
 |   전략   |   배송비 계산    | DeliveryFeeSystem | [링크](https://areum.tistory.com/71)  |
 |  커맨드   |   음악 플레이어   |    MusicPlayer    | [링크](https://areum.tistory.com/72)  |
+|   상태   |  비디오 플레이어   |    VideoSystem    | [링크](https://areum.tistory.com/73)  |
 
 
 ## 스레드
