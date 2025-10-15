@@ -40,16 +40,16 @@ public class EmployeeSort {
 			do {
 				left ++;
 			}while (
-				compareEmployee(arr[left], pivot) < 0
+				compareEmployee(arr[left], pivot) < 0		//arr[left]가 pivot 보다 큼
 			);
 
 			do {
 				right --;
 			}while (
-					compareEmployee(arr[right], pivot) > 0
+					compareEmployee(arr[right], pivot) > 0		//arr[left]가 pivot 보다 작음
 			);
 
-			if( left >= right ) return right;
+			if( left >= right ) return right;		//서로 위치가 교차되면 종료(변경할 값이 없음, 즉 정렬이 된 상태)
 
 			Employee temp = arr[left];
 			arr[left] = arr[right];
